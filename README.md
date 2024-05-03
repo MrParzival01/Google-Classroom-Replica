@@ -1,4 +1,4 @@
-# ClassWise website 
+#Google-Classroom-Replica website 
 
 ## Pre-requisite 
 
