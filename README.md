@@ -19,6 +19,6 @@ file_content mediumblob
 - Run these commands in terminal after cloning the repo
 
 ```
-cd ClassWise
+cd Google-Classroom-Replica
 php artisan serve
 ```
