@@ -1,4 +1,4 @@
-# Google-Classroom-Replica website 
+# An Improved Google-Classroom website called Classwise
 
 ## Pre-requisite 
 
